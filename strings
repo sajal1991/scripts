@@ -1,0 +1,15 @@
+a=""
+b="Hello, My name is Sajal Kumar Singh. I'm from Bhagalpur."
+
+
+eaco $a
+echo $b
+
+
+echo ${#a}
+echo ${#b}
+
+echo ${b:23}
+echo ${b:23:17}
+
+echo ${b: -10}

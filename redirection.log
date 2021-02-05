@@ -1,0 +1,17 @@
+arithmaticops.sh
+clargs.sh
+condargs.sh
+declare1.sh
+hello.sh
+hi.sh
+namearray.sh
+readarithmatic.sh
+readinput.sh
+readsameline.sh
+redirection.log
+reply1.sh
+strings
+userarithmatic.sh
+uservar
+Linux ip-172-31-33-103.us-east-2.compute.internal 4.18.0-240.1.1.el8_3.x86_64 #1 SMP Fri Oct 16 13:36:46 EDT 2020 x86_64 x86_64 x86_64 GNU/Linux
+-bash: Date: command not found
